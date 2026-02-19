@@ -9,25 +9,7 @@
 </head>
 <body>
     <div class="container">
-        <form>
-            <div class="mb-3">
-                <label for="name" class="form-label">User Name</label>
-                <input type="text" class="form-control" name="name" id="name">
-            </div>
-            <div class="mb-3">
-                <label for="email" class="form-label">Email address</label>
-                <input type="email" class="form-control" name="email" id="email">
-            </div>
-            <div class="mb-3">
-                <label for="password" class="form-label">Password</label>
-                <input type="password" class="form-control" id="password">
-            </div>
-            <div class="mb-3 form-check">
-                <label class="form-check-label" for="confirm_password">Confirm Password</label>
-                <input type="password" class="form-check-input" id="confirm_password">
-            </div>
-            <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
+        <a href="#">Logout</a>
     </div>
 </body>
 </html>
