@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h3>Hello Admin Name : {{ Auth::user()->name }}</h3>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. At ut aliquam nam harum est reprehenderit dolorum culpa! Cumque nobis modi dolorem dolores, sint delectus quo soluta, inventore, ut aliquam ipsa.</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Rerum similique, reprehenderit earum eaque perspiciatis facere quia veritatis ducimus minus labore in? Consequuntur magni laborum libero culpa mollitia ex ipsum, nostrum provident facilis sit. Explicabo eaque laudantium dignissimos molestiae, perferendis voluptates sunt. Laboriosam magnam iusto expedita at cumque exercitationem totam quis excepturi impedit error, placeat tenetur ex eum facilis aut possimus nostrum explicabo incidunt est. Voluptatibus similique, cumque corporis a libero nobis veniam harum accusamus neque quibusdam, id repudiandae quidem optio nulla itaque, non vitae. Praesentium architecto, rerum aliquam tempore minus quaerat eum iusto veritatis ratione ex qui officia, laborum at excepturi. Optio cum a minus nulla laborum dolorum eligendi suscipit ut doloremque nemo pariatur dolorem odio commodi ad ratione, aut, vero, accusantium voluptates excepturi. Totam omnis amet fugit magni, labore veniam perspiciatis cumque debitis nulla esse odit sunt? Veritatis vero quas laboriosam neque consequuntur, mollitia repudiandae maxime aspernatur qui saepe minus ex odit! Quae, fugiat. Numquam, facere. Eos, ut ducimus aperiam in aliquid cumque sed suscipit eaque dolorum, id voluptatem autem hic consequuntur consectetur? Illo necessitatibus dolore vero ullam atque. Error, eius. Architecto dolore voluptatem quod inventore necessitatibus. Impedit nostrum veniam natus ea. Eum autem amet error, beatae corrupti omnis molestias, ratione esse alias dignissimos quo fugit magnam quis aliquid sit. Aperiam sit soluta sapiente consequatur vero suscipit, error sequi tempore sint eos et minus labore nam quisquam adipisci aut quod quasi. Mollitia asperiores totam voluptas doloremque dolores sed enim eligendi nesciunt, iste repellendus molestias culpa neque non aspernatur temporibus quas. Eos animi maxime explicabo quam numquam fugit hic reprehenderit corrupti id blanditiis sit at sapiente nam tempore facilis error quos nobis neque laborum ex aspernatur, adipisci consectetur consequuntur quae. Similique velit doloribus illum eligendi et accusamus quae, suscipit sint ullam quos commodi excepturi quas veniam fugit expedita sed. Unde!</p>
+</body>
+</html>
